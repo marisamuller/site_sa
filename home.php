@@ -17,24 +17,24 @@
 			<nav class="col-12">
 				<ul class="menu">
 					<li>
-						<a href="home.php">
-							Home
-						</a>
+                                            <a href="home.php">
+						Home
+                                            </a>
 					</li>
 					<li>
-                                                <a href="nossaempresa.php">
-							Nossa Empresa
-						</a>
+                                            <a href="nossaempresa.php">
+                                                Nossa Empresa
+                                            </a>
 					</li>
 					<li>
-						<a href="produtos.php">
-							Produtos
-						</a>
+                                            <a href="produtos.php">
+						Produtos
+                                            </a>
 					</li>
 					<li>
-						<a href="nossaequipe.php">
-							Nossa Equipe
-						</a>
+                                            <a href="nossaequipe.php.php">
+                                                Nossa Equipe
+                                            </a>
 					</li>
 				</ul>
 			</nav>
