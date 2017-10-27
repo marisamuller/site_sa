@@ -27,13 +27,13 @@
 						</a>
 					</li>
 					<li>
-						<a href="tatuagens.html">
-							Tatuagens
+						<a href="produtos.html">
+							Produtos
 						</a>
 					</li>
 					<li>
 						<a href="depoimentos.html">
-							Depoimentos
+							Nossa Equipe
 						</a>
 					</li>
 				</ul>
