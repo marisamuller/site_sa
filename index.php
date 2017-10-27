@@ -4,7 +4,7 @@
 	<head>
 		<title>grid layout</title>
 		<meta charset="utf-8">
-		<link type="text/css" href="estilo.css" rel="stylesheet">
+                <link type="text/css" href="css/estilo.css" rel="stylesheet">
 	</head>
 	<body>
 		<div id="container">
