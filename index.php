@@ -10,7 +10,7 @@
 		<div id="container">
 			<!--cabecalho da pagina-->
 			<header class="col-12">
-				<img src="fotos/logo.jpg" class="logo">
+                            <img src="img/logo.png" class="logo">
 			</header>
 			<!--./cabecalho da pagina-->
 			<!--menu-->
