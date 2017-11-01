@@ -41,35 +41,43 @@
                         <!--./menu-->
 			<!--banner-->
 			<article class="col-12">
-				<img src="fotos/banner.png" class="banner" alt="banner">
+                            <img src="img/banner.jpg" class="banner" alt="banner">
 			</article>
 			<!--./banner-->
 			<!--conteudo-->
 			<section class="col-12">
-				<h3>mais vendidas</h3>
+				<h3>produtos mais vendidos</h3>
 				<div class="col-4">
-					<img src="fotos/foto1.jpg" class="fotos" alt="foto 01">
+                                    <img src="img/foto1.jpg" class="fotos" alt="foto 01">
+                                    <h3>iphone x</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto2.jpg" class="fotos" alt="foto 02">
+                                    <img src="img/foto2.jpg" class="fotos" alt="foto 02">
+                                    <h3>samsun s8</h3>
+                                </div>
+				<div class="col-4">
+                                    <img src="img/foto3.jpg" class="fotos" alt="foto 03">
+                                    <h3>Surface Pro 4</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto3.jpg" class="fotos" alt="foto 03">
+                                    <img src="img/foto4.png" class="fotos" alt="foto 04">
+                                    <h3>Logitech G502</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto4.jpg" class="fotos" alt="foto 04">
+                                    <img src="img/foto5.jpg" class="fotos" alt="foto 05">
+                                    <h3>Mouse Pad</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto5.jpg" class="fotos" alt="foto 04">
-				</div>
-				<div class="col-4">
-					<img src="fotos/foto6.jpg" class="fotos" alt="foto 04">
+                                    <img src="img/foto6.jpg" class="fotos" alt="foto 06">
+                                    <h3>Computador</h3>
 				</div>
                                 <div class="col-4">
-					<img src="fotos/foto7.jpg" class="fotos" alt="foto 04">
+                                    <img src="img/foto7.jpg" class="fotos" alt="foto 07">
+                                    <h3>headset</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto8.jpg" class="fotos" alt="foto 04">
+                                    <img src="img/foto8.jpg" class="fotos" alt="foto 08">
+                                    <h3>fone de ouvido sem fio</h3>
 				</div>
 			</section>
 			<!--conteudo-->

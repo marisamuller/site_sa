@@ -41,7 +41,7 @@
                         <!--./menu-->
                         <!--banner-->
                         <article class="col-12">
-                            <img src="fotos/banner.jpg" class="banner" alt="banner">
+                            <img src="img/banner.jpg" class="banner" alt="banner">
                         </article>
                         <!--./banner-->
                         <!--conteudo-->
@@ -49,16 +49,20 @@
                             <h3>nossos equipe</h3>
                         </section>
                             <div class="col-4">
-                                    <img src="fotos/foto01.jpg" class="fotos" alt="foto 01">
+                                    <img src="img/foto01.jpg" class="fotos" alt="foto 01">
+                                    <h3>Julia Gabriela-Funcionaria</h3>
                             </div>
                             <div class="col-4">
-                                    <img src="fotos/foto02.jpg" class="fotos" alt="foto 02">
+                                    <img src="img/foto02.jpg" class="fotos" alt="foto 02">
+                                    <h3>Alexia Stein - Atentente</h3>
                             </div>
                             <div class="col-4">
-                                    <img src="fotos/foto03.jpg" class="fotos" alt="foto 03">
+                                    <img src="img/foto03.jpg" class="fotos" alt="foto 03">
+                                    <h3>Marisa Muller - vice precidente</h3>
                             </div>
                             <div class="col-4">
-                                    <img src="fotos/foto04.jpg" class="fotos" alt="foto 04">
+                                    <img src="img/foto04.jpg" class="fotos" alt="foto 04">
+                                    <h3>Alisson Stein- Precidente</h3>
                             </div>
                             <div>
                                 <h3>Estamos Localizados em Rio do Sul no Centro</h3>

@@ -41,7 +41,7 @@
 			<!--./menu-->
 			<!--banner-->
 			<article class="col-12">
-				<img src="fotos/banner.png" class="banner" alt="banner">
+                            <img src="img/banner.jpg" class="banner" alt="banner">
 			</article>
 			<!--./banner-->
 			<!--conteudo-->
