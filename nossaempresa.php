@@ -54,7 +54,7 @@
                             </div>
                             <div class="col-4">
                                     <img src="img/foto02.jpg" class="fotos" alt="foto 02">
-                                    <h3>Alexia Stein - Atentente</h3>
+                                    <h3>Alexia Stein - Atendente</h3>
                             </div>
                             <div class="col-4">
                                     <img src="img/foto03.jpg" class="fotos" alt="foto 03">
