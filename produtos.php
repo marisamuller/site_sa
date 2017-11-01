@@ -41,12 +41,12 @@
 			<!--./menu-->
 			<!--banner-->
 			<article class="col-12">
-				<img src="fotos/banner.jpg" class="banner" alt="banner">
+                            <img src="img/banner.jpg" class="banner" alt="banner">
 			</article>
                         <!--./banner-->
 			<!--conteudo-->
 			<section class="col-12">
-				<h3>alguns de nossos trabalhos recentes</h3>
+				<h3>Alguns de Nossos Trabalhos Recentes</h3>
 				<div class="col-4">
 					<img src="img/foto001.jpg" class="fotos" alt="foto 01">
                                         <h3>Celulares</h3>
