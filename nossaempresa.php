@@ -46,7 +46,7 @@
                         <!--./banner-->
                         <!--conteudo-->
                         <section class="col-12">
-                            <h3>nossos equipe</h3>
+                            <h3>Nossa Equipe</h3>
                         </section>
                             <div class="col-4">
                                     <img src="img/foto01.jpg" class="fotos" alt="foto 01">
