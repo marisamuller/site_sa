@@ -50,7 +50,7 @@
                         </section>
                             <div class="col-4">
                                     <img src="img/foto01.jpg" class="fotos" alt="foto 01">
-                                    <h3>Julia Gabriela - Funcionaria</h3>
+                                    <h3>Julia Gabriela - Funcionária</h3>
                             </div>
                             <div class="col-4">
                                     <img src="img/foto02.jpg" class="fotos" alt="foto 02">
