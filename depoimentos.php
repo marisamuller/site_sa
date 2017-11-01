@@ -47,6 +47,7 @@
             <!--conteudo-->
             <section class="col-12">
                 <h3>depoimentos do que é a empresa T.I.Informática para você</h3>
+                <hr>
                 <div>
                     <h3>Equipe nota 10, tanto no desenvolvimento do site como na manutenção do mesmo , apesar da equipe aparentar ser formada por jovens todos são comprometidos com o trabalho.</h3>
                     <hr>
