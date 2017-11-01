@@ -32,8 +32,8 @@
                                             </a>
 					</li>
 					<li>
-                                            <a href="nossaequipe.php.php">
-                                                Nossa Equipe
+                                            <a href="depoimentos.php">
+                                                Depoimentos
                                             </a>
 					</li>
 				</ul>
