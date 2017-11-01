@@ -48,40 +48,52 @@
 			<section class="col-12">
 				<h3>alguns de nossos trabalhos recentes</h3>
 				<div class="col-4">
-					<img src="fotos/foto001.jpg" class="fotos" alt="foto 01">
+					<img src="img/foto001.jpg" class="fotos" alt="foto 01">
+                                        <h3>Celulares</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto002.jpg" class="fotos" alt="foto 02">
+					<img src="img/foto002.jpg" class="fotos" alt="foto 02">
+                                        <h3>Notebooks</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto003.jpg" class="fotos" alt="foto 03">
+					<img src="img/foto003.jpg" class="fotos" alt="foto 03">
+                                        <h3>Computadores</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto004.jpg" class="fotos" alt="foto 04">
+					<img src="img/foto004.jpg" class="fotos" alt="foto 04">
+                                        <h3>Cadeira Gamer</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto005.jpg" class="fotos" alt="foto 04">
+					<img src="img/foto005.jpg" class="fotos" alt="foto 04">
+                                        <h3>Mouse</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto006.jpg" class="fotos" alt="foto 04">
+					<img src="img/foto006.jpg" class="fotos" alt="foto 04">
+                                        <h3>Teclados</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto007.jpg" class="fotos" alt="foto 04">
+					<img src="img/foto007.jpg" class="fotos" alt="foto 04">
+                                        <h3>Cabos USB</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto008.jpg" class="fotos" alt="foto 04">
+					<img src="img/foto008.jpg" class="fotos" alt="foto 04">
+                                        <h3>Carregadores</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto009.jpg" class="fotos" alt="foto 04">
+					<img src="img/foto009.jpg" class="fotos" alt="foto 04">
+                                        <h3>Mouse Pad</h3>
 				</div>
                                 <div class="col-4">
-					<img src="fotos/foto010.jpg" class="fotos" alt="foto 04">
+					<img src="img/foto010.jpg" class="fotos" alt="foto 04">
+                                        <h3>Fones de Ouvido</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto011.jpg" class="fotos" alt="foto 04">
+					<img src="img/foto011.jpg" class="fotos" alt="foto 04">
+                                        <h3>Tablet</h3>
 				</div>
 				<div class="col-4">
-					<img src="fotos/foto012.jpg" class="fotos" alt="foto 04">
+					<img src="img/foto012.jpg" class="fotos" alt="foto 04">
+                                        <h3>Monitor</h3>
 				</div>
 			</section>
 			<!--rodape-->
