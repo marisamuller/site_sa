@@ -58,11 +58,11 @@
                             </div>
                             <div class="col-4">
                                     <img src="img/foto03.jpg" class="fotos" alt="foto 03">
-                                    <h3>Marisa Muller - vice precidente</h3>
+                                    <h3>Marisa Muller - vice presidente</h3>
                             </div>
                             <div class="col-4">
                                     <img src="img/foto04.jpg" class="fotos" alt="foto 04">
-                                    <h3>Alisson Stein- Precidente</h3>
+                                    <h3>Alisson Stein- Presidente</h3>
                             </div>
                             <div>
                                 <h3>Estamos Localizados em Rio do Sul no Centro</h3>
