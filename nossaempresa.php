@@ -2,7 +2,7 @@
 <!--grid layout - layout ajustavel-->
 <html>
 	<head>
-		<title>grid layout</title>
+		<title>T.I Informática/nossa Empresa</title>
 		<meta charset="utf-8">
                 <link type="text/css" href="css/estilo.css" rel="stylesheet">
 	</head>

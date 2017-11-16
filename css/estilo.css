@@ -26,7 +26,7 @@ body {
 .col-4 {
 	width:25%;
 	height:320px;
-	float:left
+	float:left;
 }
 .banner {
 	width:100%;
@@ -35,8 +35,7 @@ body {
 .logo {
 	width:20%;
 	font-size:60px;
-	color:#2F4F4F4;
-	
+	color:#F4F4F4;
 	text-shadow: 2px 2px #FFFF00;
 }
 .menu {
