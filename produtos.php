@@ -95,6 +95,9 @@
 					<img src="img/foto012.jpg" class="fotos" alt="foto 04">
                                         <h3>Monitor</h3>
 				</div>
+                                <div>
+                                    <h3>tambem fazemos formatação de eletronicos, arrumamos e criamos computadores de acordo como você quer.</h3>
+                                </div>
 			</section>
 			<!--rodape-->
 			<footer class="col-12 rodape">
